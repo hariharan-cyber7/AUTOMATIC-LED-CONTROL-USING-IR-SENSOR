@@ -31,7 +31,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
   
 2. Click **File → New STM32 Project**.
 
- <img width="620" height="400" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/d2d5dc2c-35fd-433b-be65-292e24710c44" />
+ <img width="520" height="300" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/d2d5dc2c-35fd-433b-be65-292e24710c44" />
 <img width="620" height="400" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/0c228fde-d69e-47f6-ab6b-41d89a02e4e9" />
 
  
